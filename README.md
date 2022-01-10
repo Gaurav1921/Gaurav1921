@@ -9,3 +9,4 @@
 - ⚡ Fun fact: I spend a lot of time just procastinating things.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Gaurav1921&&show_icons=true&title_color=ffffff&icon_color=bbacf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav1921&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
